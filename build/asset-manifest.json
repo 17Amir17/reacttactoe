@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reacttactoe/build/static/css/main.e9e811ce.chunk.css",
+    "main.js": "/reacttactoe/build/static/js/main.9376a372.chunk.js",
+    "main.js.map": "/reacttactoe/build/static/js/main.9376a372.chunk.js.map",
+    "runtime-main.js": "/reacttactoe/build/static/js/runtime-main.84bd6684.js",
+    "runtime-main.js.map": "/reacttactoe/build/static/js/runtime-main.84bd6684.js.map",
+    "static/js/2.aeada074.chunk.js": "/reacttactoe/build/static/js/2.aeada074.chunk.js",
+    "static/js/2.aeada074.chunk.js.map": "/reacttactoe/build/static/js/2.aeada074.chunk.js.map",
+    "index.html": "/reacttactoe/build/index.html",
+    "static/css/main.e9e811ce.chunk.css.map": "/reacttactoe/build/static/css/main.e9e811ce.chunk.css.map",
+    "static/js/2.aeada074.chunk.js.LICENSE.txt": "/reacttactoe/build/static/js/2.aeada074.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84bd6684.js",
+    "static/js/2.aeada074.chunk.js",
+    "static/css/main.e9e811ce.chunk.css",
+    "static/js/main.9376a372.chunk.js"
+  ]
+}
